@@ -1,0 +1,19 @@
+{
+  "name": "react_homework2_ex2",
+  "version": "1.0.0",
+  "description": "\"# react_homework2_ex2\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aprricod/react_homework2_ex2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aprricod/react_homework2_ex2/issues"
+  },
+  "homepage": "https://github.com/aprricod/react_homework2_ex2#readme"
+}
